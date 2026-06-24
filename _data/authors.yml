@@ -1,19 +1,8 @@
 # Authors
 
-Name Name:
-  name        : "Zhibin Du"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-    bio: >
-    Associate Professor
-    School of Artificial Intelligence
-    South China Normal University
-  location: "Foshan, China"
-
-  email: "zhibindu@m.scnu.edu.cn"
-
-  employer: "South China Normal University"
-
-  googlescholar: ""
-
-  github: "zhibindu"
+zhibin:
+  name: Zhibin Du
+  email: "zhibindu@126.com, zhibindu@m.scnu.edu.cn"
+  research_interests:
+    - Graph theory
+    - Combinatorics
