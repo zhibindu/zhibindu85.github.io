@@ -1,18 +1,19 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Zhibin Du"
   uri         : "https://name.com"
   email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+    bio: >
+    Associate Professor
+    School of Artificial Intelligence
+    South China Normal University
+  location: "Foshan, China"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  email: "zhibindu@m.scnu.edu.cn"
+
+  employer: "South China Normal University"
+
+  googlescholar: ""
+
+  github: "zhibindu"
